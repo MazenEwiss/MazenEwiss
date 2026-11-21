@@ -1,9 +1,9 @@
 <!-- Header -->
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Mazen%20Hatem&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Distributed%20Systems%20%7C%20Compilers%20%26%20Robotics&descAlignY=55&descColor=8b949e)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Mazen%20Hatem&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Distributed%20Systems%20%7C%20Compilers%20and%20Robotics&descAlignY=55&descColor=8b949e)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+scalable+full-stack+apps+%26+microservices;Architecting+cross-platform+mobile+and+web+platforms;Contributing+to+LLVM+toolchains+and+Envoy+Proxy;Engineering+autonomous+robotics+%26+low-level+systems;From+Spring+Cloud+%26+Flutter+to+Verilog+silicon+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+scalable+full-stack+apps+and+microservices;Architecting+cross-platform+mobile+and+web+platforms;Contributing+to+LLVM+toolchains+and+Envoy+Proxy;Engineering+autonomous+robotics+and+low-level+systems;From+Spring+Cloud+and+Flutter+to+Verilog+silicon+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
